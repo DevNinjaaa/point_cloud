@@ -1,0 +1,2 @@
+ You will need to find the correct links for the dataset and a corresponding image dataset
+         The ModelNet40 dataset is available from Princeton University.
